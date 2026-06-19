@@ -14,7 +14,6 @@
 
 
 
-
 void delayMs(int n) {
 	volatile int i; // volatile impede otimizacoes do compilador
 	volatile int j;
